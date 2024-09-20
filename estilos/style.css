@@ -4,13 +4,13 @@
 }
 
 body{
-    background-color: rgb(190, 141, 236);
+    background-color: blue;
 }
 img.lado{
     float: right;
 }
 main{
-    background-color: bisque;
+    background-color: aliceblue;
     width: 500px;
     margin: auto;
     padding: 10px;
